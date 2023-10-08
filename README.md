@@ -11,4 +11,4 @@
  - Python: >= 3.10.7
   
  
- 
+ © Gildas NG.
